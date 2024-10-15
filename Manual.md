@@ -28,7 +28,7 @@ Dominion is a game of building a deck of cards. Each player has their own deck, 
 
 Players take turns. Each turn has three phases: Action, then Buy, then Clean-up, which you can remember as ABC. In the Action phase, you can play one Action card from your hand; in the Buy phase, you can play any number of Treasure cards and then buy one card to add to your deck; and in Clean-up you sweep up all of your cards from play and from your hand and discard them, then draw a new hand of 5 cards, shuffling as needed.
 
-The game ends after 3 piles are empty or the Province pile is empty; then players count up the icon of a Heater Shield of their cards, and the player with the most icon of a Heater Shield wins.
+The game ends after 3 piles are empty or the Province pile is empty; then players count up the (icon of a Heater Shield) of their cards, and the player with the most (icon of a Heater Shield) wins.
 
 ## Action Phase (page 4)
 
@@ -42,13 +42,13 @@ Using up your Actions is optional; you can have an Action card left in hand that
 
 ## Buy Phase (page 5)
 
-First you can play any number of Treasure cards from your hand, in any order. Treasure cards say "Treasure" on the bottom and have a yellow banner. You play one by moving it to the "in play" area; you probably will not announce your Treasures, though you can if you want. The Treasures have no text, just a big coin with a number on it. You get that many coins to spend this turn - one coin for a Copper, two for a Silver, three for a Gold, indicated as a coin icon with number 1 on it, a coin icon with number 2 on it, a coin icon with number 3 on it. The amount is also in the corners at the top of Treasures. You do not have to play every Treasure in your hand (but only get a coin with no number on it icon this turn for the Treasures you play).
+First you can play any number of Treasure cards from your hand, in any order. Treasure cards say "Treasure" on the bottom and have a yellow banner. You play one by moving it to the "in play" area; you probably will not announce your Treasures, though you can if you want. The Treasures have no text, just a big coin with a number on it. You get that many coins to spend this turn - one coin for a Copper, two for a Silver, three for a Gold, indicated as (a coin icon with number 1 on it), (a coin icon with number 2 on it), (a coin icon with number 3 on it). The amount is also in the corners at the top of Treasures. You do not have to play every Treasure in your hand (but only get a coin with no number on it icon this turn for the Treasures you play).
 
-Then, you can buy one card, costing as much a big coin with no number on it icon as you have or less. Costs are indicated in the lower left corner of cards. You buy a card by choosing it from the Supply, and then "gaining" it. "Gaining" a card means moving it from the Supply to your discard pile. Your total amount of coins available to spend goes down by the cost of the card. For example if you played four Coppers and a Silver, that makes- a coin with number 6 on it total; if you bought a Market, that costs a coin with number 5 on it , so you would move a Market from the Supply to your discard pile and have a coin with number 1 on it left.
+Then, you can buy one card, costing as much (a coin with no number on it icon) as you have or less. Costs are indicated in the lower left corner of cards. You buy a card by choosing it from the Supply, and then "gaining" it. "Gaining" a card means moving it from the Supply to your discard pile. Your total amount of coins available to spend goes down by the cost of the card. For example if you played four Coppers and a Silver, that makes (a coin with number 6 on it icon) total; if you bought a Market, that costs (a coin with number 5 on it icon), so you would move a Market from the Supply to your discard pile and have (a coin with number 1 on it icon) left.
 
-Buying cards does not use up Treasure cards; you still have the cards. The Treasures produce income usable every time you draw them. Buying cards just uses up the coin with no number on it icon you have available this turn.
+Buying cards does not use up Treasure cards; you still have the cards. The Treasures produce income usable every time you draw them. Buying cards just uses up the (coin with no number on it icon) you have available this turn.
 
-Some cards give "+1 Buy." This increases how many cards you can buy in a turn in your Buy phase. For example with a coin with number 6 on it icon and an extra Buy, you could buy two Silvers, which each cost a coin with number 3 on it icon . Using up your Buys is optional. You can have two Buys but just buy one card, or skip buying entirely. As Copper costs a coin with number 0 on it icon, you could use a Buy with no a coin with no number on it icon to buy a Copper.
+Some cards give "+1 Buy." This increases how many cards you can buy in a turn in your Buy phase. For example with (a coin with number 6 on it icon) and an extra Buy, you could buy two Silvers, which each cost (a coin with number 3 on it icon) . Using up your Buys is optional. You can have two Buys but just buy one card, or skip buying entirely. As Copper costs (a coin with number 0 on it icon), you could use a Buy with no (a coin with no number on it icon) to buy a Copper.
 
 You cannot go back and play more Treasures after buying a card; first play Treasures, then buy.
 
@@ -58,127 +58,37 @@ Take all of the cards you have in play (both Actions and Treasures), and any rem
 
 Draw a new hand of 5 cards. If your deck has fewer than 5 cards, first shuffle your discard pile and put it under your deck, then draw.
 
-Play passes to the player to your left. Any unused +Actions, unused +Buys, or unspent an icon of a coin with no number on it that you had left are gone; you start each turn fresh.
+Play passes to the player to your left. Any unused +Actions, unused +Buys, or unspent (an icon of a coin with no number on it) that you had left are gone; you start each turn fresh.
 
 ## Game End (page 6)
 
 The game ends at the end of a turn, if either the Province pile is empty, or any three or more Supply piles are empty (any piles at all, including Kingdom cards, Curses, Copper, etc.).
 
-Take all of your cards - from your hand, deck, discard pile, play area, and even set aside cards - and sort them for putting them back in their piles. Count up your
+Take all of your cards - from your hand, deck, discard pile, play area, and even set aside cards - and sort
+them for putting them back in their piles. Count up your (an icon of a Heater shield).
 
-.
+The player with the most (an icon of a Heater shield) wins. If players tie for (an icon of a Heater shield), a player who tied but had fewer turns wins. If players tie and had the same number of turns, they rejoice in their shared victory.
 
-The player with the most players tie and had the same number of turns, they rejoice in their shared victory.
-
-wins. If players tie for
-
-, a player who tied but had fewer turns wins. If
+## Card Types (page 6)
 
 Every card has types, listed on the bottom; a color, which helps indicate certain types; and a cost, in the lower left corner. Action cards all have a text box with instructions; sometimes other cards do.
 
-Cards can have multiple types. A card has all of its types for all purposes. For example, Throne Room lets you play an Action card twice; that Action could be Witch, which is an Action - Attack, or Moat, an Action - Reaction, or Smithy, an Action.
+Cards can have multiple types. A card has all of its types for all purposes. For example, Throne Room lets you play an Action card twice; that Action could be Witch, which is an Action - Attack, or Moat, an
+Action - Reaction, or Smithy, an Action.
 
-These are the card types present in the main set (expansions add some): • Action: These can be played in your Action phase to do what they say to do in the text box. • Treasure: These can be played in your Buy phase to produce indicated in the top corners and on a big like Action cards. • Victory: These are generally not useful during the game, but are worth number next to a big • Curse: These are bad cards worth -1 them, though you can; however you may receive them from other players via Witch. • Attack: These are cards that hurt other players directly somehow. • Reaction: These are cards that can be used in some way at an unusual time. Any such use is spelled out on the Reaction card; for example Moat says it can be revealed when another player plays an Attack card. Reactions are used one at a time (which matters for expansion Reactions).
+These are the card types present in the main set (expansions add some):
 
-used to buy cards. The amount of
+- **Action**: These can be played in your Action phase to do what they say to do in the text box.
+  
+- **Treasure**: These can be played in your Buy phase to produce (a coin with no number on it icon) used to buy cards. The amount of (a coin with no number on it icon) is indicated in the top corners and on a big (a coin with no number on it icon) symbol. Treasures in expansions may have rules on them like Action cards.
+  
+- **Victory**: These are generally not useful during the game, but are worth (an icon of a Heater shield) at the end indicated by a number next to a big (an icon of a Heater shield) symbol.
 
-symbol. Treasures in expansions may have rules on them
+- **Curse**: These are bad cards worth -1 (an icon of a Heater shield). Normally they have no use and you will not choose to buy them, though you can; however you may receive them from other players via Witch.
 
-at the end indicated by a
+- **Attack**: These are cards that hurt other players directly somehow.
 
-## Symbol.
-
-. Normally they have no use and you will not choose to buy
-
-is
-
-## Village
-
-## +1 Card +2 Actions
-
-## Action
-
-## Illustration: Claus Stephan © 2021 Rio Grande Games
-
-## Action
-
-Updated kingdom randomizer 2nd.indd 23
-
-7/25/21 1:16 AM
-
-## Copper
-
-## Treasure
-
-## Illustration: Ryan Laukat © 2021 Rio Grande Games
-
-## Treasure
-
-## Treasure_2Nd02.Indd 68
-
-7/12/21 12:43 AM
-
-## Estate
-
-1
-
-## Curse
-
-1
-
-## Victory
-
-## Curse
-
-## Illustration: Martin Hoffmann © 2021 Rio Grande Games
-
-## Illustration: Claus Stephan © 2021 Rio Grande Games
-
-## Victory Curse
-
-## Victory_2Nd.Indd 1
-
-7/14/21 11:07 PM
-
-## Victory_2Nd.Indd 68
-
-7/14/21 11:07 PM
-
-## Witch
-
-## Moat
-
-## +2 Cards
-
-## +2 Cards
-
-## Each Other Player Gains A Curse.
-
-When another player plays an Attack card, you may 昀rst reveal this from your hand, to be unaffected by it.
-
-## Action - Attack
-
-## Action - Reaction
-
-## Illustration: Matthias Catrein
-
-## © 2021 Rio Grande Games
-
-## Illustration: Matthias Catrein
-
-## © 2021 Rio Grande Games
-
-## Action & Action & Reaction Attack
-
-Updated kingdom randomizer 2nd.indd 24
-
-7/25/21 1:16 AM
-
-Updated kingdom randomizer 2nd.indd 15
-
-7/25/21 1:16 AM
-
-## Dominionrules.Qxp_Widedominion // : Am Page 
+- **Reaction**: These are cards that can be used in some way at an unusual time. Any such use is spelled out on the Reaction card; for example Moat says it can be revealed when another player plays an Attack card. Reactions are used one at a time (which matters for expansion Reactions).
 
 Some special terms are used in card text.
 
