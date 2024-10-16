@@ -329,4 +329,4 @@ you do not gain one.
 
 **Workshop**: The card you gain comes from the Supply and is put into your
 discard pile. You cannot use (coin with no number on it icon) to increase how expensive of a card you gain; it
-always costs from (coin with 0 on it icon) to (coin with number 4 on it icon) .
+always costs from (coin with 0 on it icon) to (coin with number 4 on it icon).
