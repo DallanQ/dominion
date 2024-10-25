@@ -2,7 +2,7 @@
 
 > How many Copper, Silver and Gold do we start with in the base game?
 
-The supply starts with all of the Gold (30), Silver (40), and whatever Copper was not dealt to players. The Copper deck starts with 60, so in a 2-player game, the supply will have 46 Copper.
+Each player's starting deck has 7 Copper and 3 Estates. The supply starts with all of the Gold (30), Silver (40), and whatever Copper was not dealt to players. The Copper deck starts with 60, so in a 2-player game, the supply will have 46 Copper.
 
 [text-trait-on-a-card](https://boardgamegeek.com/thread/743841/text-trait-on-a-card)
 
@@ -18,23 +18,19 @@ Any Action cards you've used move to your discard pile during the Clean-up phase
 
 > Can you reveal a Reaction card twice in reaction to the same Attack? if so, can it be the same copy of the card?
 
-You can't reveal one reaction card multiple times on an attack.
-
-You cannot reveal the same copy of a Reaction card multiple times in response to the same Attack. Once you reveal a Reaction card, like Secret Chamber, to respond to an Attack, that specific copy has already been used for that Attack and cannot be revealed again in response to the same event
+You can reveal a reaction as many times as you like. Normally you only do it once, but in the case of drawing a Moat due to a Secret Chamber, you can play the SC again if you really wanted to.
 
 [tactician-rules-question](https://boardgamegeek.com/thread/524361/tactician-rules-question)
 
 > does playing the Tactician mean that your turn ends (skipping ahead to the cleanup phase)
 > or does it simply make you discard your hand?
 
-Tactician says you discard your hand, so you discard your hand, but it does not say to end your turn immediately, so you do not end your turn immediately.
-
 Playing the Tactician does not end your turn immediately; it simply requires you to discard your hand as part of its effect. You continue with the rest of your turn as usual, meaning you can still play additional Action cards if you have them available (for instance, if you have extra Actions from a previous card) and buy cards in the Buy phase.
 
 [are-actions-granted-from-kingdom-cards-optional](https://boardgamegeek.com/thread/353764/are-actions-granted-from-kingdom-cards-optional)
 
-> 1. The rules state that the initial play of an action card is optional. Does that mean if you play an action card that gives you +2 actions (Village) and you have 2 actions in hand, you must play them both? 
-> 2. Or do these gained actions continue to be optional?
+> The rules state that the initial play of an action card is optional. Does that mean if you play an action card that gives you +2 actions (Village) and you have 2 actions in hand, you must play them both? 
+> Or do these gained actions continue to be optional?
 
 The actions are optional. If you use them, the order is specified by the card. For example, the Laboratory gives you +2 cards and +1 action. The two cards must be drawn before you take the action. You can't draw the first card, take your action, and then draw the second card #1.
 
@@ -43,6 +39,10 @@ The actions are optional. If you use them, the order is specified by the card. F
 > Are the phases, Action, Buy and Clean-up separated? I.e. do you finish playing all your action cards and then go to Buy phase or do you finish resolving?
 
 The phases are separate. You resolve everything on one Action card before playing another. Only when you have finished playing Action cards do you move on to the Buy phase.
+
+> Does playing a Workshop action card use up your buy in the Buy phase?
+
+No - you Gain a card there and then. (Note that many of the terms used on cards, including Gain, have specific meanings defined in the rules.)
 
 > If you don't have any Treasure cards on your hand, do you still get to buy Kingdom cards with the coins provided by playing action cards, e.g. Market +1 coin?
 
@@ -64,7 +64,7 @@ The person playing the card. In general, when the card text says "you" or "your"
 
 > When you trash a card from your hand, does it have to be an Action card, or can it be any type? Additionally, when you purchase a replacement card, can it be any card type, such as a Treasure or Victory card?
 
-It depends on what is causing you to trash the card. Most cards say "Trash a card from your hand" so it can be any card. However, Death Cart from the Dark Ages expansion specifically says you must trash an action card. Same for the Advance event card from Empires, it says trash an action card.
+It depends on what is causing you to trash the card. Most cards say "Trash a card from your hand" so it can be any card. 
 
 [stacking-actions](https://boardgamegeek.com/thread/923455/stacking-actions)
 
@@ -76,11 +76,11 @@ It depends on what is causing you to trash the card. Most cards say "Trash a car
 
 1. You play a card: Throne Room (A).
 2. With the Throne Room (A), you'll choose an action card and play it twice. You choose Throne Room (B).
-   1. With the Throne Room (B), you'll choose an action card and play it twice. You choose Moat. You play Moat once and draw 2 cards, e.g., two Estates.
-   2. Now, you play Moat a second time and draw 2 more cards: an Estate and a Witch.
+2.1. With the Throne Room (B), you'll choose an action card and play it twice. You choose Moat. You play Moat once and draw 2 cards, e.g., two Estates.
+2.2. Now, you play Moat a second time and draw 2 more cards: an Estate and a Witch.
 3. Now you play Throne Room (B) a second time. You'll choose an action card and play it twice. You choose Witch.
-   1. You play Witch once. You draw two cards and each opponent gets a Curse.
-   2. You play Witch a second time. You draw two cards and each opponent gets a Curse.
+3.1. You play Witch once. You draw two cards and each opponent gets a Curse.
+3.2. You play Witch a second time. You draw two cards and each opponent gets a Curse.
 
 [question-about-curses](https://boardgamegeek.com/thread/1015628/question-about-curses)
 
@@ -90,11 +90,11 @@ Once the curses run out, there is no more curses left in the supply, and it's tr
 
 > If you just keep on playing without Curses, then does the Curse pile being empty count towards the 3 empty pile end of game condition?
 
-Yes. Unless a card specifically says that it's "not in the supply" (which you don't run into outside of the Cornucopia and Dark Ages expansions), it will count toward the 3 empty pile rule.
+Yes, it will count toward the 3 empty pile rule.
 
 [remodeling-a-curse-card](https://boardgamegeek.com/thread/357791/remodeling-a-curse-card)
 
-> Having accumulated a lot of curse cards, and on hands where i had no other play, do I have to take a card worth 2?
+> Having accumulated a lot of curse cards, and on hands where i had no other play, I would remodel the curse card. Do I have to take a card worth 2?
 
 You must take a card that costs 2 or less if it's available, such as a Copper or a Curse, and any card you remodel to cost 2 can be further remodeled later for something more useful
 
@@ -102,8 +102,9 @@ You must take a card that costs 2 or less if it's available, such as a Copper or
 
 > What are some cases where a Throne card would not be allowed?
 
-If you have already played all your actions for the turn, you cannot use a Throne card to play any more actions and also When the Throne Card is trashed or gained by another player during your turn, you can't use it anymore.
+You can always play the card. Sometimes it just doesn't do anything.
 
+But if you have already played all your actions for the turn, you cannot use a Throne card to play any more actions and also When the Throne Card is trashed or gained by another player during your turn, you can't use it anymore.
 
 [tr-plus-mine-tr-plus-tr](https://boardgamegeek.com/thread/1137060/tr-plus-mine-tr-plus-tr)
 
