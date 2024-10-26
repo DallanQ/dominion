@@ -110,23 +110,85 @@ But if you have already played all your actions for the turn, you cannot use a T
 
 [need-clarification-of-onto-your-deck](https://boardgamegeek.com/thread/2340626/need-clarification-of-onto-your-deck)
 
+>  When a card effect like Harbinger lets you place a card “onto your deck,” does this mean to place it on top of the deck to draw next, or to shuffle it into the deck?
+
+It means place it on top of your deck. And yes, playing another Action cards that draws a card (e.g. another Harbinger) will then draw that card. This will generally be clarified in the Kingdom Card Notes section of the rule book for the card in question.
+
+When an effect tells you to place a card "onto your deck," it means that you should place that card on top of your draw pile (the deck from which you draw cards). 
+
 [game-end](https://boardgamegeek.com/thread/350881/game-end)
+
+>  Does the game end when any 3 supply piles, including treasure or curse piles, are empty?
+
+ The game ends when any 3 supply piles are empty, which includes treasure, curse, and victory piles as well as any other kingdom card piles in play.
 
 [clarification-re-governor](https://boardgamegeek.com/thread/1079047/clarification-re-governor)
 
+> If another player uses the Governor card to trash a card and gain one exactly 2 coins more in value, can I trash a Curse card—even if there are no cards costing exactly 1 coin—since the rules say I must replace if able?
+
+Yes, you may still trash the Curse card in this situation.
+
 [counting-vps-and-militia-equal-attack-and-curse-ca](https://boardgamegeek.com/thread/349149/counting-vps-and-militia-equal-attack-and-curse-ca)
 
+> At the end of the game, do you count victory points in your deck and your hand and your discard pile?
+
+You count all victory points in your deck, hand, and discard pile
+
+> Is the Militia considered an "Attack" card, such that the Moat can be used to defend against it?
+
+Militia is considered an "Attack" card, so the Moat can indeed be used to defend against it
+
+> How do Curse cards come into play? They're not used with the base set of ten cards, correct?
+
+Curse cards come into play when specific Kingdom cards require them, such as Witch, Young Witch. There not used with base set of ten supply cards but are added when a card that gives out Curses is used in the game.
+
+> Is there ever a situation where you would want to buy a Curse card for yourself?
+
+Yes, but you would have to be out of Copper cards (also 0 cost but 0 vp) for this to matter, and there are a ton of those.
+
+If you're in a game where your opponents are likely to gain Curses and you can acquire one to prevent them from gaining it (like through certain card effects), it could be a tactical move.
+
 [carryover-to-supplemental-buys](https://boardgamegeek.com/thread/489760/carryover-to-supplemental-buys)
+
+> If I have +1 buy and 2 Gold, can I buy two cards at once, one costing 4 and another costing 2, or am I limited to buying one card at a time?
+
+if you have +1 buy and 2 Gold, you cannot buy two cards at once. You must buy one card at a time during each buy phase.
 
 [draw-game](https://boardgamegeek.com/thread/475492/draw-game)
 
 [must-i-play-all-of-my-treasure-cards-in-hand](https://boardgamegeek.com/thread/723953/must-i-play-all-of-my-treasure-cards-in-hand)
 
+> If I have Copper but prefer not to play them because I want to buy a Grand Market, is that possible?
+
+Yes, you choose what coin cards to play. If they are still in your hand, they are not in play.
+
+> If I have contraband but I already have enough money for what I want, Am I force to play it?
+
+ If you have Contraband in your hand but already have enough money from other cards to buy what you want, you are not forced to play it.
+
+> What is purpose of Loan?
+
+Loan is for trashing Copper. But it also gives you a temporary boost to your purchasing power this round.
+
 [behavior-order](https://boardgamegeek.com/thread/2395614/behavior-order)
+
+> If I play an action phase and the placed card says +1 action and +1 buy then, what is the order of my behaviors next?
+
++1 Action allows you to play another Action card during your Action phase, but you do not have to use that Action immediately. This flexibility can be crucial for chaining multiple Actions together effectively, especially when using cards like Village that grant additional Actions.
+
+You cannot move to the Buy phase or purchase cards until you have completed your Action phase, regardless of how many Actions or Buys you have. Only after resolving all your Actions can you then buy cards according to the number of Buys available to you.
 
 [throne-room-black-market-question](https://boardgamegeek.com/thread/430523/throne-room-black-market-question)
 
+> If you were to throne room a black market how would the money work?
+
+You get +2 Coins for the first Black Market, and an additional +2 Coins for the second. Coins you don't spend carry forward, all the way to the Buy phase if you'd like.
+
 [throne-room-plus-woodcutter](https://boardgamegeek.com/thread/418684/throne-room-plus-woodcutter)
+
+> The throne room is a powerful card, but what if you play a woodcutter on a throne room?
+
+You get +2 buy and +4 money to spend.
 
 [identifying-rules-bending-combos](https://boardgamegeek.com/thread/775400/identifying-rules-bending-combos)
 
@@ -134,7 +196,31 @@ But if you have already played all your actions for the turn, you cannot use a T
 
 [newbish-question-about-moat](https://boardgamegeek.com/thread/489137/newbish-question-about-moat)
 
+> The rule states that I can play the Moat card as an Action during my turn to draw two cards, but if I reveal it as a Reaction when attacked, do I still draw two cards?
+> What happens if I play as the first player thous playing Moat, and the second player plays Witch, does Moat still count as a reaction?
+
+If you reveal Moat as a Reaction to an attack, you do not draw two cards. Revealing Moat allows you to ignore the effects of the attack, but you only draw two cards when you play Moat as an Action during your own turn.
+
+> If you have multiple Action - Reaction cards in your hand when someone plays an attack card, can you play more than on against one attack?
+
+Absolutely. For example, the following play sequence is legal:
+- Player A plays an Attack card.
+- Player B, who does not have a Moat card in his hand, reveals Secret Chamber and draws 2 cards. One of those cards is a Moat.
+- Player B puts 2 cards, not including the Moat he just drew, back on top of his deck.
+- Player B now reveals the Moat in his hand, and is unaffected by the attack.
+That play sequence would be appropriate, by the way, even if player B had already had the Moat in his hand before revealing the Secret Chamber.
+
 [24-estate-cards-and-blanks](https://boardgamegeek.com/thread/373209/24-estate-cards-and-blanks)
+
+> Why are there 24 estate cards when i only use up to 12 of them?
+
+You start with 3 in your hand to begin the game... times the number of players (max 4) = 12 extras.
+
+>  what is the goal of the 7 blank cards?
+
+The blanks can be used to replace damaged/lost cards. I use them to represent an empty pile of supply cards during the game as the white stands out and is a great reminder.
+
+blank cards is to use them as a method of handicapping. Simply replace one or more coppers in the starting deck with blank cards and you've made the deck significantly weaker.
 
 [embargo-and-curses](https://boardgamegeek.com/thread/686433/embargo-and-curses)
 
