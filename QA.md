@@ -224,6 +224,10 @@ blank cards is to use them as a method of handicapping. Simply replace one or mo
 
 [embargo-and-curses](https://boardgamegeek.com/thread/686433/embargo-and-curses)
 
+> If an Embargo token is on the Curse pile, does each player gain an additional Curse from the Embargo when receiving a Curse from the Witch card, or only when they buy a card?
+
+the Embargo token only triggers when a player buys a card from the pile it’s on. So, if you put an Embargo token on the Curse pile, it won’t affect curses given by effects like the Witch card.
+
 [woodcutter-general-question-first-play](https://boardgamegeek.com/thread/481919/woodcutter-general-question-first-play)
 
 [2-new-player-questions](https://boardgamegeek.com/thread/482026/2-new-player-questions)
