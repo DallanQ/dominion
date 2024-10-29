@@ -230,27 +230,78 @@ the Embargo token only triggers when a player buys a card from the pile it’s o
 
 [woodcutter-general-question-first-play](https://boardgamegeek.com/thread/481919/woodcutter-general-question-first-play)
 
+> Does gaining an extra buy and +2 gold allow you to add 2 gold to each purchase, or just to your total for the turn?
+
+Only +2 total, not per buy. This means you have +2 gold to use however you like across all your buys that turn,
+
 [2-new-player-questions](https://boardgamegeek.com/thread/482026/2-new-player-questions)
+
+> If I draw the last five cards in my deck as my new hand, and then play an action card that lets me draw more cards, should I shuffle my discard pile to form a new deck in the middle of my turn?
+
+Yes, if you need to draw more cards and your deck is empty, you immediately shuffle your discard pile to form a new deck and continue drawing.
+
+> Some of my cards have a blue tint on the back, while most are aquamarine. why is this?
+
+These are the selector cards. They shouldn't be included with the cards you put in each supply pile.
 
 [newbie-vassal-card-dominion-question](https://boardgamegeek.com/thread/1913433/newbie-vassal-card-dominion-question)
 
+>  If I play my Vassal card, do I reveal the top card of my deck and discard it, and if it’s an Action card, can I play it without using an Action?
+
+Yes, when you play Vassal, you reveal the top card of your deck and discard it. 
+
 [randomization-cards-question](https://boardgamegeek.com/thread/625908/randomization-cards-question)
+
+> What are the blue backed (randomization backed) versions of the victory point and money cards for?
+
+The blue-backed versions of the Victory Point and Treasure cards can be placed face-down under the corresponding supply piles to visually indicate when a pile has run out 
 
 [multiple-actions](https://boardgamegeek.com/thread/709399/multiple-actions)
 
 [doubt-about-curses](https://boardgamegeek.com/thread/664578/doubt-about-curses)
 
+> Are Curses available in all games, even without the Witch, and if I buy a Curse, do I have to put it in my own deck, or can I place it in another player's deck?
+
+ Yes, it's true that Curses can be present in games without the Witch, and players can buy them and if you do, you put them back in your deck.
+
 [question-on-captain-promo-card](https://boardgamegeek.com/thread/2258827/question-on-captain-promo-card)
 
 [torturer](https://boardgamegeek.com/thread/469020/torturer)
 
+> If my opponent plays a Torturer and the Curse pile is empty. Do I have to discard two cards or can I choose to get a Curse?
+
+If your opponent plays a Torturer and the Curse pile is empty, you must discard two cards instead of gaining a Curse.
+
 [masquerade-pass-cards-simultaneously-or-one-at-a-t](https://boardgamegeek.com/thread/646074/masquerade-pass-cards-simultaneously-or-one-at-a-t)
+
+>  When playing the Masquerade card, do players pass a card to the left simultaneously, or one at a time starting with the player who played the Masquerade?
+
+When playing the Masquerade card, players pass a card to the left simultaneously.
 
 [two-questions-about-cards](https://boardgamegeek.com/thread/2446601/two-questions-about-cards)
 
+> If I have 6 coins to spend, can I buy only one card, or can I buy multiple cards?
+
+If you have 6 coins, you can buy multiple cards as long as their total cost does not exceed 6 coins. However, you can only buy one card at a time per buy action unless you have specific effects that allow for additional purchases in the same turn.
+
+> During the Action phase, if I play a card that gives me 2 coins and allows for "+1 buy," and I also have 4 coins in my hand, what are my total coins and buying options?
+
+ your total available coins for the turn would be 6 coins (4 from your hand + 2 from the played card). Since you also have the "+1 buy" from the card you played, you can buy one additional card beyond your usual buy.
+
 [question-about-game-end-and-scoring](https://boardgamegeek.com/thread/3345378/question-about-game-end-and-scoring)
 
+>  The game end when any 3 supply piles empty.
+Does that include victory supply pile (estate , duchy) or only kingdom cards?
+
+The game ends when any three supply piles are empty, and this includes Victory card piles like Estates and Duchies, as well as Kingdom card piles.
+
+> When scoring and counting Victory Points, should I include Victory Point cards in my hand and discard pile, or only those in my deck?
+
+When scoring Victory Points, you count all Victory Point cards you own, including those in your hand, discard pile, and deck.
+
 [rules-clarification-thief](https://boardgamegeek.com/thread/1177836/rules-clarification-thief)
+
+
 
 [throne-room](https://boardgamegeek.com/thread/538381/throne-room)
 
