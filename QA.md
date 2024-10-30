@@ -423,6 +423,10 @@ No, you cannot place tokens given out by Teachers on empty supply piles.
 
 [more-market-questions](https://boardgamegeek.com/thread/361584/more-market-questions)
 
+> What is the function of the +1 Coin option when using the Market card during the Buy phase?
+
+The +1 Coin means that you add 1 Coin to your total for that Buy phase, which can be used in combination with any other Treasure cards or actions you have played during that turn. 
+
 [treasure-maps](https://boardgamegeek.com/thread/602746/treasure-maps)
 
 [house-rules-for-accidental-rules-infractions](https://boardgamegeek.com/thread/660551/house-rules-for-accidental-rules-infractions)
@@ -445,19 +449,49 @@ No, you cannot place tokens given out by Teachers on empty supply piles.
 
 [throne-room-with-feast](https://boardgamegeek.com/thread/1090559/throne-room-with-feast)
 
+> If I play Throne Room with a Feast, can I trash the Feast card twice and buy two five-cost cards, or is the Feast destroyed after the first action of Throne Room?
+
+When you play Throne Room with a Feast, you can only trash the Feast once because it is considered to be played for the duration of the first Throne Room action.
+
 [confusion-after-1st-game](https://boardgamegeek.com/thread/427624/confusion-after-1st-game)
+
+> When we start the game without any Action cards, do we proceed directly to the Buy phase?
+
+ Yes, if you have no Action cards in your hand at the start of your turn, you skip the Action phase and proceed directly to the Buy phase
+
+> Can we discard cards from our hand at any time without picking up replacements if we haven’t played an Action card?
+
+No, you cannot discard cards from your hand at any time without playing an Action card that allows you to do so.
+
 
 [simple-bureaucrat-question-out-of-silver](https://boardgamegeek.com/thread/642219/simple-bureaucrat-question-out-of-silver)
 
+> What happens with the Bureaucrat card if the Silver supply runs out during a game?
+
+When you play Bureaucrat and the Silver supply is empty, you do not gain a Silver, but you still carry out the other effects of the card, such as looking at the top card of your deck and possibly revealing it.
+
 [chapelfeast-combo](https://boardgamegeek.com/thread/439489/chapelfeast-combo)
+
+> Can you play Chapel to trash up to 4 cards from your hand, then trash Feasts to gain cards worth up to 5 coins? Is the Feast bonus only applicable if they are trashed during the Action phase?
+
+No. You can only gain a card from Feast if the Feast is trashed specifically to itself. If you trash the Feast using Chapel, you are not trashing it to itself, so you do not get to gain a card worth up to 5 coins.
 
 [throne-room-and-spy](https://boardgamegeek.com/thread/352158/throne-room-and-spy)
 
 [black-market-and-throne-room](https://boardgamegeek.com/thread/383004/black-market-and-throne-room)
 
+> When you Throne Room a Black Market, can the extra $2 from the second Black Market be used for the first buy, or only for the second look?
+
+The first time Black Market resolves, you don't have the $2 from playing the 2nd one yet, as you haven't played it. The second time Black Market resolves, you can use money from the first Black Market, if you haven't spent it already.
+
+
 [10-action-cards](https://boardgamegeek.com/thread/463753/10-action-cards)
 
 [discarding](https://boardgamegeek.com/thread/1090408/discarding)
+
+> Discarding is this done at random, by choice or up to your gaming group?
+
+Discarding is typically done by choice, meaning players select which cards to discard from their hand or play area.
 
 [played-it-wrongfound-a-better-game](https://boardgamegeek.com/thread/417831/played-it-wrongfound-a-better-game)
 
@@ -465,15 +499,44 @@ No, you cannot place tokens given out by Teachers on empty supply piles.
 
 [nube-question-re-prosperity-kingdon-treasure-cards](https://boardgamegeek.com/thread/672136/nube-question-re-prosperity-kingdon-treasure-cards)
 
+> After purchasing action cards, do they enter your hand as action cards that require an action to play during your action phase, or can they be played during the buying phase, allowing you to use a different action card beforehand?
+
+No, they are played as Treasure cards in the first part of your Buy phase. Note that this means that Treasure cards are actually considered to be played one at a time in the order that you choose.
+
 [question-about-playing-intrige-with-alchemst-expan](https://boardgamegeek.com/thread/657103/question-about-playing-intrige-with-alchemst-expan)
+
+> What happens if I choose to let the possessed player play their Strategist card on my behalf?
+
+When you possess another player in Dominion, remember:
+
+- The possessed player plays their cards, but you make the decisions. 
+- Cards they gain go into your discard pile, and cards they trash return to them in the cleanup phase.  
+- If they play an attack card, you will be attacked. 
+- If their only action card isn't beneficial for you, it may not matter whether it gets played.
+- If playing the card has negative effects for you or benefits them, it might be better not to make them play it.
+  
+I hope this clarifies how Possession works!
 
 [trash-your-hand-all-at-once](https://boardgamegeek.com/thread/2625868/trash-your-hand-all-at-once)
 
 [beginner-questions-regarding-plus-coin-remodel-and](https://boardgamegeek.com/thread/933088/beginner-questions-regarding-plus-coin-remodel-and)
 
+> What exactly is "the Supply"? Does it include all cards, or only certain types like kingdom cards?
+
+The Supply is all the cards in the center of the table, excluding the trash. Kingdom cards, treasure cards, victory cards, and curses all count.
+
 [how-watchtower-works](https://boardgamegeek.com/thread/1323062/how-watchtower-works)
 
 [throne-rooms-and-action-card](https://boardgamegeek.com/thread/393774/throne-rooms-and-action-card)
+
+> When you play Throne Room, is it mandatory to play the action card a second time?
+Example:
+Play Throne Room.
+Use Throne Room on another Throne Room (triggering two Throne Room effects).
+Use one effect to play Moat (one Throne Room effect remains).
+Result after step 3: Your hand contains over 8 coins, a Moat, and Victory cards.
+
+Yes, when you play Throne Room, it is mandatory to play the action card a second time if possible
 
 [no-randomizer-cards](https://boardgamegeek.com/thread/824247/no-randomizer-cards)
 
@@ -485,9 +548,11 @@ No, you cannot place tokens given out by Teachers on empty supply piles.
 
 [empty-deck-with-spythief](https://boardgamegeek.com/thread/360075/empty-deck-with-spythief)
 
-[festival-and-village](https://boardgamegeek.com/thread/399594/festival-and-village)
+> Does playing a thief and revealing the top cards of an empty deck force a shuffle, or should you just reveal what is available without shuffling?
 
-> 
+Yes, if the deck is empty when you play a thief, you must shuffle the discard pile to create a new deck and then reveal the top cards. This ensures there are cards to reveal, as required by the effect.
+
+[festival-and-village](https://boardgamegeek.com/thread/399594/festival-and-village)
 
 [when-to-shuffledraw-newbie-question](https://boardgamegeek.com/thread/455691/when-to-shuffledraw-newbie-question)
 
