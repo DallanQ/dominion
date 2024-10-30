@@ -301,49 +301,121 @@ When scoring Victory Points, you count all Victory Point cards you own, includin
 
 [rules-clarification-thief](https://boardgamegeek.com/thread/1177836/rules-clarification-thief)
 
-
-
 [throne-room](https://boardgamegeek.com/thread/538381/throne-room)
 
 [market](https://boardgamegeek.com/thread/381164/market)
 
+> If I have a card in my hand that grants +1 Buy, +1 Action, and +1 Coin, can I keep it in my hand without playing it and still receive the +1 Coin to spend?
+
+No, you only get the +1 Coin if the card is played. Since it also provides +1 Action, there's no reason not to play it.
+
 [cost-comparison](https://boardgamegeek.com/thread/2031453/cost-comparison)
 
+> How can we compare Overlord to Copper?
+
+Overlord is versatile, mimicking any Action card costing up to 5, while Copper consistently gives +1 Coin. Copper is useful early but weakens over time. Overlord’s 8 Debt cost delays other buys, but its flexibility makes it valuable throughout the game.
+
 [adventurer-and-kings-court-plus-mountebank-quick-q](https://boardgamegeek.com/thread/1370955/adventurer-and-kings-court-plus-mountebank-quick-q)
+
+> With Adventurer, if the deck is finished before the players finds the two treasures (1 or 2 still to get), does shuffle the discard pile, put it back as deck, and keep looking for the two treasures?
+
+Yes, with Adventurer, if the deck runs out before finding two Treasure cards, you shuffle the discard pile to form a new deck and continue revealing cards until you find two Treasures.
+
+> Suppose player plays King's court (x3 an action), he then plays another King's court, then he plays a Mountebank. Do the opponents have to take nine curses (if they do not possess a curse in hand)?
+
+No, opponents do not take nine Curses. When you play King’s Court on another King’s Court and then on Mountebank
 
 [draw-plus-1-action-and-use-it](https://boardgamegeek.com/thread/3216861/draw-plus-1-action-and-use-it)
 
 [when-curses-run-out-how-does-witch-resolve](https://boardgamegeek.com/thread/366389/when-curses-run-out-how-does-witch-resolve)
 
+> If the Curse pile runs out, do Witch cards lose their attack ability and simply provide +2 cards to the player, and if so, are remaining Curses distributed in player order starting with the player to the left?
+
+Yes, once the Curse pile is empty, Witch only provides +2 cards. If the Curse pile runs out mid-play (for example, if multiple players would gain a Curse in turn order), Any remaining Curses are distributed in player order starting with the player to the left. 
+
 [can-i-remodel-a-curse](https://boardgamegeek.com/thread/647797/can-i-remodel-a-curse)
+
+> If someone plays a card that allows them to trash a card from their hand, can they trash a Curse to gain 2 coins and then use those coins to buy a Moat?
+
+Yes, if a card allows you to trash a card from your hand, you can trash a Curse to gain 2 coins, which you can then use to buy a Moat.
 
 [new-player-question-about-throne-room](https://boardgamegeek.com/thread/373173/new-player-question-about-throne-room)
 
+> After you have played a Throne Room card, does it cost you 'another' action, to play the action care that will be doubled?
+
+No. You use an action to play the Throne Room. Part of executing the Throne Room action is playing another card (twice).
+
 [triple-throne-room](https://boardgamegeek.com/thread/355654/triple-throne-room)
+
+> What happens if I play three Throne Room cards in a row?
+
+When you play three Throne Room cards in a row, you first play the first Throne Room, using it to play the second Throne Room twice. This allows you to play the second Throne Room, which then lets you play the third Throne Room twice. In total, you will have played three Throne Room cards, and you'll end up executing the effects of each one in succession. The process continues as long as you have Throne Rooms to play, following the same principle each time.
 
 [why-are-there-so-many-copper-cards](https://boardgamegeek.com/thread/989023/why-are-there-so-many-copper-cards)
 
+> In a 2-player game of Dominion, I noticed there were only 14 Copper cards in play. Is that normal, and are you supposed to buy Copper cards, considering they cost 0?
+
+In a standard game, each player starts with 7 Copper cards, so in a 2-player game, there should be 14 Copper cards in total. You don't buy Copper cards since they cost 0, and you typically won't see additional Coppers in play unless players gain them through specific cards or effects.
+
 [how-do-you-use-gardens](https://boardgamegeek.com/thread/714557/how-do-you-use-gardens)
+
+> In the setup for Dominion, do you decide to use Gardens separately, or is it included when selecting the 10 Kingdom cards?
+
+You can include Gardens as one of the 10 Kingdom cards when setting up the game, or you can choose to use it separately based on your preference.
 
 [when-to-include-garden-vineyard](https://boardgamegeek.com/thread/612343/when-to-include-garden-vineyard)
 
+> Should Vineyard or Gardens be included in the random draw for the supply deck in Dominion, or should they always be available?
+
+Vineyard and Gardens can be included in the random draw for the supply deck as part of your Kingdom card selection. They are not required to be available all the time, so it’s up to your preference or the rules of the specific game you’re playing.
+
 [trade-route](https://boardgamegeek.com/thread/755735/trade-route)
+
+> In a normal Prosperity game with Estates, Duchies, Provinces, and Colonies, is a Throne Room (TR) card at most worth 4 coins, and in a 4-player game averaging only 1 coin per TR map, does this make it a weak card?
+
+Yes, in a Prosperity game with those victory cards, a Throne Room can effectively be worth a maximum of 4 coins when playing a card like Colony or Province. However, its strength depends on the Action cards you can use it with. If you're averaging only 1 coin per TR map in a 4-player game, it may seem less powerful, but TR can still be very strong when combined with high-value Action cards or cards that allow for multiple plays or additional effects.
 
 [note-taking](https://boardgamegeek.com/thread/411449/note-taking)
 
 [playing-the-cards-as-written](https://boardgamegeek.com/thread/351068/playing-the-cards-as-written)
 
+> Is the intention for Action cards in Dominion, like Spy, to resolve in the order written on the card, meaning you draw a card first and then look at the top card of your deck?
+
+You do in fact resolve instructions in the order they appear on cards. With Spy, you draw before looking.
+
+> Does Bureaucrat affect Curses in opponents' hands?
+
+Bureaucrat, it does not affect Curses in your opponents' hands; it only allows you to gain a Silver and forces them to reveal a Victory card from their hand, which can be a Curse.
+
 [posted-dominion-hinterlands-kingdom-card-descripti](https://boardgamegeek.com/thread/719447/posted-dominion-hinterlands-kingdom-card-descripti)
 
 [militia-rules-action-or-coin-or-both](https://boardgamegeek.com/thread/451474/militia-rules-action-or-coin-or-both)
+
+> When playing the Militia card, do you receive both the attack effect and the +2 coins, or do you have to choose between them?
+
+When you play the Militia card, you receive both the attack effect and the +2 coins. You don't have to choose; you get the full benefits of the card.
 
 [exiled-border-village](https://boardgamegeek.com/thread/2841548/exiled-border-village)
 
 [how-to-i-calculate-curse-cards](https://boardgamegeek.com/thread/917771/how-to-i-calculate-curse-cards)
 
+> Are Curse cards in Dominion literally just worth minus 1 Victory Point, or do they count as minus 1 Victory Card?
+
+Curse cards are worth minus 1 Victory Point each. 
+
+
 [question-about-teacherfrom-adventures](https://boardgamegeek.com/thread/1363364/question-about-teacherfrom-adventures)
 
+> Can you put the tokens given out by Teachers on empty supply piles?
+
+No, you cannot place tokens given out by Teachers on empty supply piles.
+
 [multiple-possessions-going-on-at-once](https://boardgamegeek.com/thread/2215549/multiple-possessions-going-on-at-once)
+
+
+>
+
+
 
 [question-on-when-you-can-use-actions](https://boardgamegeek.com/thread/1289359/question-on-when-you-can-use-actions)
 
@@ -415,7 +487,18 @@ When scoring Victory Points, you count all Victory Point cards you own, includin
 
 [festival-and-village](https://boardgamegeek.com/thread/399594/festival-and-village)
 
+> 
+
 [when-to-shuffledraw-newbie-question](https://boardgamegeek.com/thread/455691/when-to-shuffledraw-newbie-question)
+
+> If I end my turn and there are 3 cards left in my pile, so I draw those three cards and then shuffle the dicards to fill out my hand to 5?
+
+Yes, if you end your turn with 3 cards left in your draw pile, you draw those 3 cards first.
+
+> If I play action cards that exhaust my draw pile but I still need to draw cards, do I shuffle then to complete the action? or do I just go without?
+
+You shuffle your discard pile to create a new draw pile and then draw the required cards to complete the action.
+
 
 [discard-and-reshuffle](https://boardgamegeek.com/thread/402744/discard-and-reshuffle)
 
