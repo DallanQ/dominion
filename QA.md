@@ -194,12 +194,11 @@ You get +2 buy and +4 money to spend.
 
 [newbish-question-about-moat](https://boardgamegeek.com/thread/489137/newbish-question-about-moat)
 
-> The rule states that I can play the Moat card as an Action during my turn to draw two cards, but if I reveal it as a Reaction when attacked, do I still draw two cards?
-> What happens if I play as the first player thous playing Moat, and the second player plays Witch, does Moat still count as a reaction?
+> If I reveal Moat as a Reaction to an attack, do I still draw two cards, or is that only when I play it as an Action on my turn?
 
 If you reveal Moat as a Reaction to an attack, you do not draw two cards. Revealing Moat allows you to ignore the effects of the attack, but you only draw two cards when you play Moat as an Action during your own turn.
 
-> If you have multiple Action - Reaction cards in your hand when someone plays an attack card, can you play more than on against one attack?
+> If you have multiple Action - Reaction cards in your hand when someone plays an attack card, can you play more than one against one attack?
 
 Absolutely. For example, the following play sequence is legal:
 - Player A plays an Attack card.
@@ -210,7 +209,7 @@ That play sequence would be appropriate, by the way, even if player B had alread
 
 [24-estate-cards-and-blanks](https://boardgamegeek.com/thread/373209/24-estate-cards-and-blanks)
 
-> Why are there 24 estate cards when i only use up to 12 of them?
+> Why are there 24 estate cards when I only use up to 12 of them?
 
 You start with 3 in your hand to begin the game... times the number of players (max 4) = 12 extras.
 
@@ -244,7 +243,7 @@ These are the selector cards. They shouldn't be included with the cards you put 
 
 [newbie-vassal-card-dominion-question](https://boardgamegeek.com/thread/1913433/newbie-vassal-card-dominion-question)
 
->  If I play my Vassal card, do I reveal the top card of my deck and discard it, and if it’s an Action card, can I play it without using an Action?
+> If I play my Vassal card, do I reveal the top card of my deck and discard it, and if it’s an Action card, can I play it without using an Action?
 
 Yes, when you play Vassal, you reveal the top card of your deck and discard it. 
 
@@ -252,7 +251,7 @@ Yes, when you play Vassal, you reveal the top card of your deck and discard it.
 
 > What are the blue backed (randomization backed) versions of the victory point and money cards for?
 
-The blue-backed versions of the Victory Point and Treasure cards can be placed face-down under the corresponding supply piles to visually indicate when a pile has run out 
+The blue-backed versions of the Victory Point and Treasure cards can be placed face-down under the corresponding supply piles to visually indicate when a pile has run out. 
 
 [multiple-actions](https://boardgamegeek.com/thread/709399/multiple-actions)
 
@@ -260,7 +259,7 @@ The blue-backed versions of the Victory Point and Treasure cards can be placed f
 
 > Are Curses available in all games, even without the Witch, and if I buy a Curse, do I have to put it in my own deck, or can I place it in another player's deck?
 
- Yes, it's true that Curses can be present in games without the Witch, and players can buy them and if you do, you put them back in your deck.
+Yes, Curses are available in the supply even if no card like Witch is in play. If you buy a Curse, you must put it into your own deck, not another player's deck.
 
 [question-on-captain-promo-card](https://boardgamegeek.com/thread/2258827/question-on-captain-promo-card)
 
@@ -272,7 +271,7 @@ If your opponent plays a Torturer and the Curse pile is empty, you must discard 
 
 [masquerade-pass-cards-simultaneously-or-one-at-a-t](https://boardgamegeek.com/thread/646074/masquerade-pass-cards-simultaneously-or-one-at-a-t)
 
->  When playing the Masquerade card, do players pass a card to the left simultaneously, or one at a time starting with the player who played the Masquerade?
+> When playing the Masquerade card, do players pass a card to the left simultaneously, or one at a time starting with the player who played the Masquerade?
 
 When playing the Masquerade card, players pass a card to the left simultaneously.
 
@@ -284,12 +283,11 @@ If you have 6 coins, you can buy multiple cards as long as their total cost does
 
 > During the Action phase, if I play a card that gives me 2 coins and allows for "+1 buy," and I also have 4 coins in my hand, what are my total coins and buying options?
 
- your total available coins for the turn would be 6 coins (4 from your hand + 2 from the played card). Since you also have the "+1 buy" from the card you played, you can buy one additional card beyond your usual buy.
+Your total available coins for the turn would be 6 coins (4 from your hand + 2 from the played card). Since you also have the "+1 buy" from the card you played, you can buy one additional card beyond your usual buy.
 
 [question-about-game-end-and-scoring](https://boardgamegeek.com/thread/3345378/question-about-game-end-and-scoring)
 
->  The game end when any 3 supply piles empty.
-Does that include victory supply pile (estate , duchy) or only kingdom cards?
+> The game end when any 3 supply piles empty. Does that include victory supply pile (estate , duchy) or only kingdom cards?
 
 The game ends when any three supply piles are empty, and this includes Victory card piles like Estates and Duchies, as well as Kingdom card piles.
 
@@ -308,10 +306,6 @@ When scoring Victory Points, you count all Victory Point cards you own, includin
 No, you only get the +1 Coin if the card is played. Since it also provides +1 Action, there's no reason not to play it.
 
 [cost-comparison](https://boardgamegeek.com/thread/2031453/cost-comparison)
-
-> How can we compare Overlord to Copper?
-
-Overlord is versatile, mimicking any Action card costing up to 5, while Copper consistently gives +1 Coin. Copper is useful early but weakens over time. Overlord’s 8 Debt cost delays other buys, but its flexibility makes it valuable throughout the game.
 
 [adventurer-and-kings-court-plus-mountebank-quick-q](https://boardgamegeek.com/thread/1370955/adventurer-and-kings-court-plus-mountebank-quick-q)
 
@@ -347,7 +341,7 @@ No. You use an action to play the Throne Room. Part of executing the Throne Room
 
 > What happens if I play three Throne Room cards in a row?
 
-When you play three Throne Room cards in a row, you first play the first Throne Room, using it to play the second Throne Room twice. This allows you to play the second Throne Room, which then lets you play the third Throne Room twice. In total, you will have played three Throne Room cards, and you'll end up executing the effects of each one in succession. The process continues as long as you have Throne Rooms to play, following the same principle each time.
+When you play three Throne Rooms in a row, you first play the first Throne Room, which lets you play the second Throne Room twice. Playing the second Throne Room twice allows you to play the third Throne Room twice, effectively doubling any Action card chosen afterward.
 
 [why-are-there-so-many-copper-cards](https://boardgamegeek.com/thread/989023/why-are-there-so-many-copper-cards)
 
