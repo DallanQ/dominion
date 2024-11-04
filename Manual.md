@@ -54,7 +54,7 @@ Some cards give "+1 Buy." This increases how many cards you can buy in a turn in
 
 You cannot go back and play more Treasures after buying a card; first play Treasures, then buy.
 
-> image of treasure cards with the worth value at the top the cost in the bottom left corner, the treasure type at the bottom, and instructions in the middle.
+> image of treasure cards with the worth value at the top, the cost in the bottom left corner, the treasure type at the bottom, and instructions in the middle.
 
 ## Clean-up Phase (page 5)
 
@@ -94,7 +94,7 @@ These are the card types present in the main set (expansions add some):
 
 - **Reaction**: These are cards that can be used in some way at an unusual time. Any such use is spelled out on the Reaction card; for example Moat says it can be revealed when another player plays an Attack card. Reactions are used one at a time (which matters for expansion Reactions).
 
-> image of Action, Treasure, Victory, Curse, Action & Attack, and Action & Reaction cards
+> image of Action, Treasure, Victory, Curse, Action & Attack, and Action & Reaction cards.
 
 ## Terminology (page 7)
 
@@ -212,13 +212,13 @@ When a card gives you a choice ("choose one..."), you can pick any option, witho
 
 When a card gives you a choice ("choose one..."), you can pick any option, without considering whether or not you will be able to do it. This comes up with expansions.
 
-## 5-6 Player Rule (page 9)
+## 5-6 Player Rules (page 9)
 
 To play with 5 or 6 players, you need additional base cards. These are available in the Base Cards product and in the Big Box, or you could have two copies of Dominion.
 
 Most Victory piles still have 12 cards, as with 3-4 player games. However use 15 Provinces for 5 players, and use 18 Provinces for 6 players. Use 40 Curses for 5 players, 50 Curses for 6 players.
 
-Add All Of The Extra Coppers, Silvers, And Golds To Those Piles.
+Add all of the extra Coppers, Silvers, and Golds to those piles.
 
 The game end condition for 5-6 players is: any four piles are empty, or the Province pile is empty.
 
@@ -342,22 +342,15 @@ You draw a card and get +1 Action, +(icon of coin with number 1 on it), and +1 B
 
 ### Merchant (page 13)
 
-When you play Merchant, you draw a card and get +1 Action. If you
-end up playing a Silver later in the turn, it comes with +(icon of coin with number 1 on it) . If you play more than
-one Merchant, each gives you +(icon of coin with number 1 on it) when you play that first Silver; but if you play
-more than one Silver, you only get the +(icon of coin with number 1 on it) for the first Silver.
+When you play Merchant, you draw a card and get +1 Action. If you end up playing a Silver later in the turn, it comes with +(icon of coin with number 1 on it) . If you play more than one Merchant, each gives you +(icon of coin with number 1 on it) when you play that first Silver; but if you play more than one Silver, you only get the +(icon of coin with number 1 on it) for the first Silver.
 
 ### Militia (page 13)
 
-Players with 3 or fewer cards in hand do not discard any cards. Players
-with more cards discard until they only have 3.
+Players with 3 or fewer cards in hand do not discard any cards. Players with more cards discard until they only have 3.
 
 ### Mine (page 13)
 
-You can, for example, trash a Copper to gain a Silver, or trash a Silver to
-gain a Gold. The Treasure you gain comes from the Supply and is put into your
-hand; you can play it for (icon of coin with no number on it) the same turn. If you do not have a Treasure to trash,
-you do not gain one.
+You can, for example, trash a Copper to gain a Silver, or trash a Silver to gain a Gold. The Treasure you gain comes from the Supply and is put into your hand; you can play it for (icon of coin with no number on it) the same turn. If you do not have a Treasure to trash, you do not gain one.
 
 ### Moat (page 13)
 
