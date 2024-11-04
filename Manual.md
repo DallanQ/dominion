@@ -394,8 +394,7 @@ The Curses come from the Supply and are put into discard piles. They are given o
 
 ### Workshop (page 14)
 
-The card you gain comes from the Supply and is put into your
-discard pile. You cannot use (icon of coin with no number on it) to increase how expensive of a card you gain; it
+The card you gain comes from the Supply and is put into your discard pile. You cannot use (icon of coin with no number on it) to increase how expensive of a card you gain; it
 always costs from (icon of coin with 0 on it) to (icon of coin with number 4 on it).
 
 ## Recommended Sets of 10 (page 15)
