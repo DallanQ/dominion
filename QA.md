@@ -22,15 +22,13 @@ You can reveal a reaction as many times as you like. Normally you only do it onc
 
 [tactician-rules-question](https://boardgamegeek.com/thread/524361/tactician-rules-question)
 
-> does playing the Tactician mean that your turn ends (skipping ahead to the cleanup phase)
-> or does it simply make you discard your hand?
+> Does playing the Tactician end your turn and skip to the Cleanup phase, or does it simply make you discard your hand?
 
 Playing the Tactician does not end your turn immediately; it simply requires you to discard your hand as part of its effect. You continue with the rest of your turn as usual, meaning you can still play additional Action cards if you have them available (for instance, if you have extra Actions from a previous card) and buy cards in the Buy phase.
 
 [are-actions-granted-from-kingdom-cards-optional](https://boardgamegeek.com/thread/353764/are-actions-granted-from-kingdom-cards-optional)
 
-> The rules state that the initial play of an action card is optional. Does that mean if you play an action card that gives you +2 actions (Village) and you have 2 actions in hand, you must play them both? 
-> Or do these gained actions continue to be optional?
+> If an Action card gives +2 Actions, like Village, do I have to play both actions immediately, or are they optional?
 
 The actions are optional. If you use them, the order is specified by the card. For example, the Laboratory gives you +2 cards and +1 action. The two cards must be drawn before you take the action. You can't draw the first card, take your action, and then draw the second card #1.
 
@@ -42,7 +40,7 @@ The phases are separate. You resolve everything on one Action card before playin
 
 > Does playing a Workshop action card use up your buy in the Buy phase?
 
-No - you Gain a card there and then. (Note that many of the terms used on cards, including Gain, have specific meanings defined in the rules.)
+No - you Gain a card there and then. (Note that many of the terms used on cards, including Gain, have specific meanings defined in the rules.).
 
 > If you don't have any Treasure cards on your hand, do you still get to buy Kingdom cards with the coins provided by playing action cards, e.g. Market +1 coin?
 
@@ -52,13 +50,13 @@ Yes. The number of coins that you can spend is the total number of coins generat
 
 Yes, you may buy cards up to the number of buys you have (1 per turn, plus any from Action cards), and up to the number of coins you have. Since Copper costs 0, you can always use spare buys. Of course, this may not be a good idea, since if your hand has a lot of Coppers it is less likely to generate enough coins for a higher value card than if you have Silver or Gold.
 
-> Throne room: if a you choose a Market as the action to play twice, do you (draw 1 card, do extra action and then buy with +1 coin) x2 or is it (draw 2 cards, perform 2 actions and then +2 buy with +2 coins)?
+> Throne room: If you choose a Market as the action to play twice, do you (draw 1 card, do extra action, and then buy with +1 coin) x2, or is it (draw 2 cards, perform 2 actions, and then +2 buy with +2 coins)?
 
-It is the former - you do everthing on the card once and then do it once again. Of course, with Market it doesn't make any real difference since drawing a card is the only thing that "happens" while resolving the card - the other elements all add to the number of things that you can do afterward.
+It is the first option: you do everything on the card once and then do it once again. Of course, with Market, it doesn't make any real difference since drawing a card is the only thing that "happens" while resolving the card; the other elements all add to the number of things that you can do afterward.
 
 > Spy: Does each player decide what to do with their revealed card or does the player who played the Spy decide?
 
-The person playing the card. In general, when the card text says "you" or "your" it means the person who played the card
+The person playing the card. In general, when the card text says "you" or "your" it means the person who played the card.
 
 [remodel-card-question](https://boardgamegeek.com/thread/1845256/remodel-card-question)
 
@@ -94,9 +92,9 @@ Yes, it will count toward the 3 empty pile rule.
 
 [remodeling-a-curse-card](https://boardgamegeek.com/thread/357791/remodeling-a-curse-card)
 
-> Having accumulated a lot of curse cards, and on hands where i had no other play, I would remodel the curse card. Do I have to take a card worth 2?
+> Having accumulated a lot of curse cards, and on hands where I had no other play, I would remodel the curse card. Do I have to take a card worth 2?
 
-You must take a card that costs 2 or less if it's available, such as a Copper or a Curse, and any card you remodel to cost 2 can be further remodeled later for something more useful
+You must take a card that costs 2 or less if it's available, such as a Copper or a Curse. Any card you remodel to cost 2 can be further remodeled later for something more useful.
 
 [clarifications-as-to-when-a-throne-card-cannot-be](https://boardgamegeek.com/thread/362002/clarifications-as-to-when-a-throne-card-cannot-be)
 
@@ -118,9 +116,9 @@ When an effect tells you to place a card "onto your deck," it means that you sho
 
 [game-end](https://boardgamegeek.com/thread/350881/game-end)
 
->  Does the game end when any 3 supply piles, including treasure or curse piles, are empty?
+> Does the game end when any 3 supply piles, including treasure or curse piles, are empty?
 
- The game ends when any 3 supply piles are empty, which includes treasure, curse, and victory piles as well as any other kingdom card piles in play.
+The game ends when any 3 supply piles are empty, which includes treasure, curse, and victory piles as well as any other kingdom card piles in play.
 
 [clarification-re-governor](https://boardgamegeek.com/thread/1079047/clarification-re-governor)
 
@@ -132,11 +130,11 @@ Yes, you may still trash the Curse card in this situation.
 
 > At the end of the game, do you count victory points in your deck and your hand and your discard pile?
 
-You count all victory points in your deck, hand, and discard pile
+You count all victory points in your deck, hand, and discard pile.
 
 > Is the Militia considered an "Attack" card, such that the Moat can be used to defend against it?
 
-Militia is considered an "Attack" card, so the Moat can indeed be used to defend against it
+Militia is considered an "Attack" card, so the Moat can indeed be used to defend against it.
 
 > How do Curse cards come into play? They're not used with the base set of ten cards, correct?
 
@@ -164,7 +162,7 @@ Yes, you choose what coin cards to play. If they are still in your hand, they ar
 
 > If I have contraband but I already have enough money for what I want, Am I force to play it?
 
- If you have Contraband in your hand but already have enough money from other cards to buy what you want, you are not forced to play it.
+If you have Contraband in your hand but already have enough money from other cards to buy what you want, you are not forced to play it.
 
 > What is purpose of Loan?
 
