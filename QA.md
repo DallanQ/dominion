@@ -313,10 +313,6 @@ No, you only get the +1 Coin if the card is played. Since it also provides +1 Ac
 
 Yes, with Adventurer, if the deck runs out before finding two Treasure cards, you shuffle the discard pile to form a new deck and continue revealing cards until you find two Treasures.
 
-> Suppose player plays King's court (x3 an action), he then plays another King's court, then he plays a Mountebank. Do the opponents have to take nine curses (if they do not possess a curse in hand)?
-
-No, opponents do not take nine Curses. When you play King’s Court on another King’s Court and then on Mountebank
-
 [draw-plus-1-action-and-use-it](https://boardgamegeek.com/thread/3216861/draw-plus-1-action-and-use-it)
 
 [when-curses-run-out-how-does-witch-resolve](https://boardgamegeek.com/thread/366389/when-curses-run-out-how-does-witch-resolve)
@@ -363,10 +359,6 @@ Vineyard and Gardens can be included in the random draw for the supply deck as p
 
 [trade-route](https://boardgamegeek.com/thread/755735/trade-route)
 
-> In a normal Prosperity game with Estates, Duchies, Provinces, and Colonies, is a Throne Room (TR) card at most worth 4 coins, and in a 4-player game averaging only 1 coin per TR map, does this make it a weak card?
-
-Yes, in a Prosperity game with those victory cards, a Throne Room can effectively be worth a maximum of 4 coins when playing a card like Colony or Province. However, its strength depends on the Action cards you can use it with. If you're averaging only 1 coin per TR map in a 4-player game, it may seem less powerful, but TR can still be very strong when combined with high-value Action cards or cards that allow for multiple plays or additional effects.
-
 [note-taking](https://boardgamegeek.com/thread/411449/note-taking)
 
 [playing-the-cards-as-written](https://boardgamegeek.com/thread/351068/playing-the-cards-as-written)
@@ -403,11 +395,6 @@ Curse cards are worth minus 1 Victory Point each.
 No, you cannot place tokens given out by Teachers on empty supply piles.
 
 [multiple-possessions-going-on-at-once](https://boardgamegeek.com/thread/2215549/multiple-possessions-going-on-at-once)
-
-
->
-
-
 
 [question-on-when-you-can-use-actions](https://boardgamegeek.com/thread/1289359/question-on-when-you-can-use-actions)
 
@@ -449,7 +436,7 @@ When you play Throne Room with a Feast, you can only trash the Feast once becaus
 
 > When we start the game without any Action cards, do we proceed directly to the Buy phase?
 
- Yes, if you have no Action cards in your hand at the start of your turn, you skip the Action phase and proceed directly to the Buy phase
+Yes, if you have no Action cards in your hand at the start of your turn, you skip the Action phase and proceed directly to the Buy phase.
 
 > Can we discard cards from our hand at any time without picking up replacements if we haven’t played an Action card?
 
@@ -499,15 +486,13 @@ No, they are played as Treasure cards in the first part of your Buy phase. Note 
 
 > What happens if I choose to let the possessed player play their Strategist card on my behalf?
 
-When you possess another player in Dominion, remember:
+When you possess another player in Dominion, the following occurs:
 
 - The possessed player plays their cards, but you make the decisions. 
 - Cards they gain go into your discard pile, and cards they trash return to them in the cleanup phase.  
 - If they play an attack card, you will be attacked. 
 - If their only action card isn't beneficial for you, it may not matter whether it gets played.
-- If playing the card has negative effects for you or benefits them, it might be better not to make them play it.
-  
-I hope this clarifies how Possession works!
+- If playing the card has negative effects for you or benefits them, it might be better to choose not to play it.
 
 [trash-your-hand-all-at-once](https://boardgamegeek.com/thread/2625868/trash-your-hand-all-at-once)
 
@@ -515,20 +500,15 @@ I hope this clarifies how Possession works!
 
 > What exactly is "the Supply"? Does it include all cards, or only certain types like kingdom cards?
 
-The Supply is all the cards in the center of the table, excluding the trash. Kingdom cards, treasure cards, victory cards, and curses all count.
+The Supply consists of all the cards in the center of the table, excluding the trash. This includes Kingdom cards, Treasure cards, Victory cards, and Curses.
 
 [how-watchtower-works](https://boardgamegeek.com/thread/1323062/how-watchtower-works)
 
 [throne-rooms-and-action-card](https://boardgamegeek.com/thread/393774/throne-rooms-and-action-card)
 
 > When you play Throne Room, is it mandatory to play the action card a second time?
-Example:
-Play Throne Room.
-Use Throne Room on another Throne Room (triggering two Throne Room effects).
-Use one effect to play Moat (one Throne Room effect remains).
-Result after step 3: Your hand contains over 8 coins, a Moat, and Victory cards.
 
-Yes, when you play Throne Room, it is mandatory to play the action card a second time if possible
+Yes, when you play Throne Room, it is mandatory to play the action card a second time if possible. For example, if you use Throne Room on another Throne Room (triggering two effects) and then play Moat with one effect remaining, you must use the remaining effect to play the action card a second time.
 
 [no-randomizer-cards](https://boardgamegeek.com/thread/824247/no-randomizer-cards)
 
