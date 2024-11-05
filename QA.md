@@ -387,7 +387,6 @@ When you play the Militia card, you receive both the attack effect and the +2 co
 
 Curse cards are worth minus 1 Victory Point each. 
 
-
 [question-about-teacherfrom-adventures](https://boardgamegeek.com/thread/1363364/question-about-teacherfrom-adventures)
 
 > Can you put the tokens given out by Teachers on empty supply piles?
