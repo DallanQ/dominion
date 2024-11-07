@@ -337,7 +337,7 @@ No. You use an action to play the Throne Room. Part of executing the Throne Room
 
 > What happens if I play three Throne Room cards in a row?
 
-When you play three Throne Rooms in a row, you first play the first Throne Room, which lets you play the second Throne Room twice. Playing the second Throne Room twice allows you to play the third Throne Room twice, effectively doubling any Action card chosen afterward.
+When you play three Throne Room cards in a row, you first play the first Throne Room, using it to play the second Throne Room twice. This allows you to play the second Throne Room, which then lets you play the third Throne Room twice. In total, you will have played three Throne Room cards, and you'll end up executing the effects of each one in succession. The process continues as long as you have Throne Rooms to play, following the same principle each time.
 
 [why-are-there-so-many-copper-cards](https://boardgamegeek.com/thread/989023/why-are-there-so-many-copper-cards)
 
