@@ -4,15 +4,39 @@
 
 Each player's starting deck has 7 Copper and 3 Estates. The supply starts with all of the Gold (30), Silver (40), and whatever Copper was not dealt to players. The Copper deck starts with 60, so in a 2-player game, the supply will have 46 Copper.
 
+----
+
+page 3
+
+Each player takes 3 Estates and 7 Coppers and shuffles them face down as a starting deck.
+
+Place 17 face-up piles of cards on the table: the 7 Base card piles, which are always used, and always the same, and 10 Kingdom card piles, which vary from game to game. The full set of cards available this game is called the Supply.
+
+The Base cards are Copper, Silver, Gold, Estate, Duchy, Province, and Curse.
+
+- Copper, Silver, Gold: Use every copy you have of these (except Coppers players already have).
+
+- Estate, Duchy, Province: Use 8 copies of each for a 2-player game, 12 copies for 3-4 players.
+
+- Curse: Use 10 with 2 players, 20 with 3 players, all 30 with 4 players.
+
 [text-trait-on-a-card](https://boardgamegeek.com/thread/743841/text-trait-on-a-card)
 
 [once-an-action-is-played-the-card-may-not-be-playe](https://boardgamegeek.com/thread/400183/once-an-action-is-played-the-card-may-not-be-playe)
 
 > Once an action is played, the card may not be played again, correct?
 
-The cards stays in front of you and only gets put back in the discards after you are done, so no, you cannot play the same physical card twice. 
+The cards stays in front of you and only gets put back in the discards after you are done, so no, you cannot play the same physical card twice.
 
 Any Action cards you've used move to your discard pile during the Clean-up phase, and you'll eventually shuffle and draw them back into your hand in future turns. However, some special cards, like Throne Room, allow you to replay an Action card immediately, effectively letting you play the chosen Action twice on the same turn. But without such an effect, each Action card is a one-time use per turn.
+
+----
+
+page 4
+
+In your Action phase, you can play one Action card from your hand. Those are cards that say "Action" on the bottom, and by default have a white banner (some are other colors due to additional types). Some cards give "+1 Action." This increases how many Action cards you can play in a turn. The increase happens right then, but you do not play the next Action card until completely finishing the first one. Some cards give "+2 Actions"; that means you can play two more Action cards that turn.
+
+So, for example, if you play Militia, which does not give +Actions, you resolve Militia and are done with your Action phase. But you could instead play a Market, then another Market, then a Militia; each Market gives you +1 Action, which lets you keep playing Actions.
 
 [can-you-reveal-a-reaction-twice](https://boardgamegeek.com/thread/492682/can-you-reveal-a-reaction-twice)
 
@@ -20,11 +44,14 @@ Any Action cards you've used move to your discard pile during the Clean-up phase
 
 You can reveal a reaction as many times as you like. Normally you only do it once, but in the case of drawing a Moat due to a Secret Chamber, you can play the SC again if you really wanted to.
 
+----
+
+page 13
+
+An Attack card says "Attack" on the bottom line; in this set, Bandit, Bureaucrat, Militia, and Witch are Attacks. When another player plays an Attack card, you may reveal a Moat from your hand, before the Attack does anything, to be unaffected by the Attack - you do not reveal cards to Bandit, or put a Victory card on your deck for Bureaucrat, or discard for Militia, or gain a Curse for Witch. Moat stays in your hand, and can still be played on your next turn. Moat does not stop anything an Attack does to other players, or for the player who played it; it just protects you personally. Moat can also be played on your turn for +2 Cards. If multiple Attacks are played on a turn or in a round of turns, you may reveal Moat for as many of them as you want.
+
 [tactician-rules-question](https://boardgamegeek.com/thread/524361/tactician-rules-question)
 
-> Does playing the Tactician end your turn and skip to the Cleanup phase, or does it simply make you discard your hand?
-
-Playing the Tactician does not end your turn immediately; it simply requires you to discard your hand as part of its effect. You continue with the rest of your turn as usual, meaning you can still play additional Action cards if you have them available (for instance, if you have extra Actions from a previous card) and buy cards in the Buy phase.
 
 [are-actions-granted-from-kingdom-cards-optional](https://boardgamegeek.com/thread/353764/are-actions-granted-from-kingdom-cards-optional)
 
@@ -32,37 +59,83 @@ Playing the Tactician does not end your turn immediately; it simply requires you
 
 The actions are optional. If you use them, the order is specified by the card. For example, the Laboratory gives you +2 cards and +1 action. The two cards must be drawn before you take the action. You can't draw the first card, take your action, and then draw the second card #1.
 
+----
+
+page 7 
+
+When this happens, it just adds to the number of Action cards you can play; you finish resolving the current card before actually playing more Action cards.
+
 [a-few-questions-regarding-dominion-base-version](https://boardgamegeek.com/thread/743472/a-few-questions-regarding-dominion-base-version)
 
 > Are the phases, Action, Buy and Clean-up separated? I.e. do you finish playing all your action cards and then go to Buy phase or do you finish resolving?
 
 The phases are separate. You resolve everything on one Action card before playing another. Only when you have finished playing Action cards do you move on to the Buy phase.
 
+----
+
+page 4 
+
+Players take turns. Each turn has three phases: Action, then Buy, then Clean-up, which you can remember as ABC. In the Action phase, you can play one Action card from your hand; in the Buy phase, you can play any number of Treasure cards and then buy one card to add to your deck; and in Clean-up you sweep up all of your cards from play and from your hand and discard them, then draw a new hand of 5 cards, shuffling as needed.
+
 > Does playing a Workshop action card use up your buy in the Buy phase?
 
-No - you Gain a card there and then. (Note that many of the terms used on cards, including Gain, have specific meanings defined in the rules.).
+No - you Gain a card there and then. (Note that many of the terms used on cards, including Gain, have specific meanings defined in the rules.)
+
+---- 
+
+page 14
+
+The card you gain comes from the Supply and is put into your discard pile. You cannot use (icon of coin with no number on it) to increase how expensive of a card you gain; it always costs from (icon of coin with 0 on it) to (icon of coin with number 4 on it).
+
+page 5
+
+Buying cards does not use up Treasure cards; you still have the cards. The Treasures produce income usable every time you draw them. Buying cards just uses up the (icon of a coin with no number on it) you have available this turn.
+
+Some cards give "+1 Buy." This increases how many cards you can buy in a turn in your Buy phase. Using up your Buys is optional. You can have two Buys but just buy one card, or skip buying entirely.
 
 > If you don't have any Treasure cards on your hand, do you still get to buy Kingdom cards with the coins provided by playing action cards, e.g. Market +1 coin?
 
 Yes. The number of coins that you can spend is the total number of coins generated by cards that you have played, including Action cards and Treasure cards (played in your Action and Buy phases respectively).
 
+----
+
+page 5
+
+First you can play any number of Treasure cards from your hand, in any order. ... Then, you can buy one card, costing as much (icon of a coin with no number on it) as you have or less. Costs are indicated in the lower left corner of cards.
+
+
 > Is it allowed to spend extra buys in the Buy phase to get Coppers?
 
 Yes, you may buy cards up to the number of buys you have (1 per turn, plus any from Action cards), and up to the number of coins you have. Since Copper costs 0, you can always use spare buys. Of course, this may not be a good idea, since if your hand has a lot of Coppers it is less likely to generate enough coins for a higher value card than if you have Silver or Gold.
+
+----
+
+page 5
+
+As Copper costs (icon of a coin with number 0 on it), you could use a Buy with no (icon of a coin with no number on it) to buy a Copper.
+
 
 > Throne room: If you choose a Market as the action to play twice, do you (draw 1 card, do extra action, and then buy with +1 coin) x2, or is it (draw 2 cards, perform 2 actions, and then +2 buy with +2 coins)?
 
 It is the first option: you do everything on the card once and then do it once again. Of course, with Market, it doesn't make any real difference since drawing a card is the only thing that "happens" while resolving the card; the other elements all add to the number of things that you can do afterward.
 
-> Spy: Does each player decide what to do with their revealed card or does the player who played the Spy decide?
+---- 
 
-The person playing the card. In general, when the card text says "you" or "your" it means the person who played the card.
+page 14
+
+If you do play one, you resolve it completely, then play it a second time. You cannot play other cards in-between (unless told to by the card, such as with Vassal or Throne Room itself)
 
 [remodel-card-question](https://boardgamegeek.com/thread/1845256/remodel-card-question)
 
 > When you trash a card from your hand, does it have to be an Action card, or can it be any type? Additionally, when you purchase a replacement card, can it be any card type, such as a Treasure or Victory card?
 
 It depends on what is causing you to trash the card. Most cards say "Trash a card from your hand" so it can be any card. 
+
+----
+
+page 14
+
+
 
 [stacking-actions](https://boardgamegeek.com/thread/923455/stacking-actions)
 
