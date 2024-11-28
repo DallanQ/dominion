@@ -309,7 +309,7 @@ That play sequence would be appropriate, by the way, even if player B had alread
 
 You start with 3 in your hand to begin the game... times the number of players (max 4) = 12 extras.
 
->  what is the goal of the 7 blank cards?
+> what is the goal of the 7 blank cards?
 
 The blanks can be used to replace damaged/lost cards. I use them to represent an empty pile of supply cards during the game as the white stands out and is a great reminder.
 
