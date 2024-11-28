@@ -133,8 +133,13 @@ It depends on what is causing you to trash the card. Most cards say "Trash a car
 
 ----
 
+page 13
+
+You can, for example, trash a Copper to gain a Silver, or trash a Silver to gain a Gold. The Treasure you gain comes from the Supply and is put into your hand; you can play it for (icon of coin with no number on it) the same turn. If you do not have a Treasure to trash, you do not gain one.
+
 page 14
 
+You cannot trash the Remodel itself, since it is not in your hand after you play it. If you do not have a card to trash, you do not gain one. If you do gain a card, it comes from the Supply and is put into your discard pile. The gained card does not need to cost exactly (icon of coin with number 2 on it) more than the trashed card; it can cost that much or less, and can even be another copy of the trashed card. You cannot use (icon of coin with no number on it) to increase how expensive of a card you gain.
 
 
 [stacking-actions](https://boardgamegeek.com/thread/923455/stacking-actions)
@@ -143,7 +148,7 @@ page 14
 
 [chaining-of-throne-room-and-kings-court](https://boardgamegeek.com/thread/1364352/chaining-of-throne-room-and-kings-court)
 
-> With this cards Throne Room, Throne Room, Moat, Copper, Copper How does chaining multiple Throne Room and King's Court cards work?
+> With this cards Throne Room, Moat, Copper, Copper How does chaining multiple Throne Room and King's Court cards work?
 
 1. You play a card: Throne Room (A).
 2. With the Throne Room (A), you'll choose an action card and play it twice. You choose Throne Room (B).
@@ -153,15 +158,33 @@ page 14
 3.1. You play Witch once. You draw two cards and each opponent gets a Curse.
 3.2. You play Witch a second time. You draw two cards and each opponent gets a Curse.
 
+----
+
+page 14
+
+Playing Action cards with Throne Room is just like playing Action cards normally, except it does not use up Action plays for the turn. For example if you start a turn by playing Throne Room on Village, you would draw a card, get +2 Actions, draw another card, and get +2 Actions again, leaving you with 4 Actions. If you Throne Room a Throne Room, you may play an Action card twice, then may play another Action card twice; you do not play one Action card four times.
+
 [question-about-curses](https://boardgamegeek.com/thread/1015628/question-about-curses)
 
 > In a two-player game, 10 Curses are set out. What happens when the pile of Curses disappear and someone plays another Witch?
 
 Once the curses run out, there is no more curses left in the supply, and it's treated the same as any other empty pile. Playing another Witch will allow you to draw 2 new cards, but no more curses can be given out.
 
+----
+
+page 14
+
+The Curses come from the Supply and are put into discard piles. They are given out in turn order, which can matter when the Curse pile is low. When the Curses are gone, you can still play Witch for +2 Cards.
+
 > If you just keep on playing without Curses, then does the Curse pile being empty count towards the 3 empty pile end of game condition?
 
 Yes, it will count toward the 3 empty pile rule.
+
+----
+
+page 6
+
+The game ends at the end of a turn, if either the Province pile is empty, or any three or more Supply piles are empty (any piles at all, including Kingdom cards, Curses, Copper, etc.).
 
 [remodeling-a-curse-card](https://boardgamegeek.com/thread/357791/remodeling-a-curse-card)
 
@@ -181,7 +204,7 @@ But if you have already played all your actions for the turn, you cannot use a T
 
 [need-clarification-of-onto-your-deck](https://boardgamegeek.com/thread/2340626/need-clarification-of-onto-your-deck)
 
->  When a card effect like Harbinger lets you place a card “onto your deck,” does this mean to place it on top of the deck to draw next, or to shuffle it into the deck?
+> When a card effect like Harbinger lets you place a card “onto your deck,” does this mean to place it on top of the deck to draw next, or to shuffle it into the deck?
 
 It means place it on top of your deck. And yes, playing another Action cards that draws a card (e.g. another Harbinger) will then draw that card. This will generally be clarified in the Kingdom Card Notes section of the rule book for the card in question.
 
